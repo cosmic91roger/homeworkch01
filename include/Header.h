@@ -1,0 +1,11 @@
+int square_printf();
+int round_printf();
+int arrow_printf();
+int diamond_printf();
+int ratio();
+int odd_printf();
+int block_letter();
+int Multiples();
+int Pattern();
+int Square();
+int BMICAL();
