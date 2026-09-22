@@ -31,6 +31,7 @@
     <ClCompile Include="..\..\source\2.31.cpp" />
     <ClCompile Include="..\..\source\2.32.cpp" />
     <ClCompile Include="..\..\source\Main.cpp" />
+    <ClCompile Include="2.33.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\Header.h" />

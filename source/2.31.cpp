@@ -15,6 +15,6 @@ int Square()
 	printf("%d\t%d\t%d\n", int(7), int(7 * 7), int(7 * 7 * 7));
 	printf("%d\t%d\t%d\n", int(8), int(8 * 8), int(8 * 8 * 8));
 	printf("%d\t%d\t%d\n", int(9), int(9 * 9), int(9 * 9 * 9));
-	printf("%d\t%d\t%d\n", int(10), int(10 * 10), int(10 * 10 * 10));
+	printf("%d\t%d\t%d\n\n", int(10), int(10 * 10), int(10 * 10 * 10));
 	return 0;
 }

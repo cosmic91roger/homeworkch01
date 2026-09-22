@@ -47,6 +47,9 @@
     <ClCompile Include="..\..\source\2.32.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="2.33.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\Header.h">

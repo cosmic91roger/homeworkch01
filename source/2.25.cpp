@@ -21,7 +21,7 @@ int block_letter()
 	printf("  Y Y\n");
 	printf("   Y\n");
 	printf("   Y\n");
-	printf("   Y\n");
+	printf("   Y\n\n");
 	return 0;
 
 }

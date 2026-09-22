@@ -9,3 +9,4 @@ int Multiples();
 int Pattern();
 int Square();
 int BMICAL();
+int Car();

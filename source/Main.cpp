@@ -15,10 +15,16 @@ int main(void)
 	odd_printf();
 	printf("2.25\n");
 	block_letter();
+	printf("2.26\n");
 	Multiples();
+	printf("2.27\n");
 	Pattern();
+	printf("2.31\n");
 	Square();
+	printf("2.32\n");
 	BMICAL();
+	printf("2.33\n");
+	Car();
 	system("pause");
 	return 0;
 }

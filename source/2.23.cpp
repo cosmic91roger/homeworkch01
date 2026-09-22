@@ -50,8 +50,38 @@ int ratio()
 			smallest = num2;
 		}
 	}
+	if (num3 = num1)
+	{
+		num3 = biggest;
+		num2 = smallest;
+		if (num2 > num1)
+		{
+			biggest = num2;
+			smallest = num1;
+		}
+	}
+	if (num2 = num1)
+	{
+		num3 = biggest;
+		num2 = smallest;
+		if (num2 > num3)
+		{
+			biggest = num2;
+			smallest = num3;
+		}
+	}
+	if (num3 = num2)
+	{
+		num1 = biggest;
+		num2 = smallest;
+		if (num2 > num1)
+		{
+			biggest = num2;
+			smallest = num1;
+		}
+	}
 	
 	printf("biggest is %d \n", biggest);
-	printf("smallest is %d \n", smallest);
+	printf("smallest is %d \n\n", smallest);
 	return 0;
 }

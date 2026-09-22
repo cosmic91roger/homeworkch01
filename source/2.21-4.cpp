@@ -11,7 +11,7 @@ int diamond_printf()
 	printf("  *     *\n");
 	printf("   *   *\n");
 	printf("    * *\n");
-	printf("     *\n");
+	printf("     *\n\n");
 	return 0;
 
 }

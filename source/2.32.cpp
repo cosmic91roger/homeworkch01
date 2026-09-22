@@ -6,10 +6,14 @@ int BMICAL()
 {
 	float weight;
 	float height;
-	printf("input your height in meters");
+	printf("Enter your height in meters");
 	scanf("%f", &height);
-	printf("input your weight in Kilgograms");
+	printf("Enter your weight in Kilgograms");
 	scanf("%f", &weight);
 	printf("BMI VALVUES: %f", float(weight / (height * height)));
+	printf("Underweight:less than 18.5\n");
+	printf("Normal:between 18.5 and 24.9\n");
+	printf("Overweight:between 25 and 29.9\n");
+	printf("Obese:30 or greater\n\n");
 	return 0;
 }
